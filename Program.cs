@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.Design;
+using System.Net.NetworkInformation;
 using System.Reflection.Metadata.Ecma335;
 using System.Runtime;
 using System.Xml.Linq;
@@ -122,13 +124,28 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Console.WriteLine("\nNous allons chercher à trouver un nombre dans une liste et calculer la somme de tous les nombres de celle-ci");
 
-            List<int> list = new List<int>();
+            List<int> list = new();
 
             Console.WriteLine("\nEntrer différents nombres entiers positifs");
 
-            Console.Write("\nPremier nombre positif : ");
+            int nb = 0;
+            
+            while (nb <= 0)
+            {
+                Console.Write("\nPremier nombre positif : ");
+                string p1 = Console.ReadLine();
 
-            int nb = int.Parse(Console.ReadLine());
+                nb = int.Parse(p1);
+
+                if (nb < 0)
+                {
+                    Console.Write("Ceci n'est pas un entier positif");
+                }
+                else
+                {
+                    break;
+                }
+            }
             list.Add(nb);
 
             Console.Write("Deuxième nombre positif : ");
@@ -141,19 +158,22 @@ namespace MyApp // Note: actual namespace depends on the project name.
             int nb3 = int.Parse(Console.ReadLine());
             list.Add(nb3);
 
-            foreach (int i in list) ;
+            Console.Write("Quatrième nombre positif : ");
 
-            int somme = nb + nb2 + nb3;
+            int nb4 = int.Parse(Console.ReadLine());
+            list.Add(nb4);
 
-            string str = "The greater of {list}.";
+            int somme = 0;
+                int max = list[0];
 
-            //int SommeTotale = max + somme;
+            foreach (int i in list)
+            {
+                somme += i;
+                max = Math.Max(max, i);
+            }
 
-            Console.WriteLine($"La somme de la liste est égal à {somme}");
-
-            //Console.WriteLine(str, nb, nb2, nb3, Math.Max(nb, nb2, nb3));
-
-            //Console.WriteLine($"Voici la somme de tout les nombre : {SommeTotale}");
+            Console.WriteLine($"La somme des nombres dans la liste est : {somme}");
+            Console.WriteLine($"Le plus grand nombre est : {max}");
         }
     }
 }

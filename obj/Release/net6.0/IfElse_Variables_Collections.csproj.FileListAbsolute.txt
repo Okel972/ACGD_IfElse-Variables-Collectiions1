@@ -1,0 +1,15 @@
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\bin\Release\net6.0\IfElse_Variables_Collections.exe
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\bin\Release\net6.0\IfElse_Variables_Collections.deps.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\bin\Release\net6.0\IfElse_Variables_Collections.runtimeconfig.json
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\bin\Release\net6.0\IfElse_Variables_Collections.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\bin\Release\net6.0\IfElse_Variables_Collections.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.csproj.AssemblyReference.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.AssemblyInfoInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.AssemblyInfo.cs
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.csproj.CoreCompileInputs.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\refint\IfElse_Variables_Collections.dll
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.pdb
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\IfElse_Variables_Collections.genruntimeconfig.cache
+C:\Users\home\Documents\DocumentsKevin\Formation\FormationACGD\ACGD\ExerciceMaison\2023-04-07\IfElse_Variables_Collections\obj\Release\net6.0\ref\IfElse_Variables_Collections.dll
